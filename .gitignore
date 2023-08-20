@@ -25,3 +25,4 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+/.vs/bloodhound/FileContentIndex/e00c9db7-2240-4d7d-a646-acccb2bac6ae.vsidx
